@@ -63,5 +63,8 @@
     "ignore": [
       "lodash"
     ]
+  },
+  "dependencies": {
+    "ololog": "^1.1.120"
   }
 }
